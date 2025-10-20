@@ -37,7 +37,11 @@ Additionally, seasonal patterns were observed, with outbreaks peaking during sum
 - Larger states tend to report more outbreaks than smaller ones.
  
 # How To Run
+- Download the data from the link --> Export as .CSV file.
+- Make sure that the jupyter notebook and the CSV file are in the same folder
+- In the jupyter file, run the code:
 
+      pd.read_csv('NORS.csv',low_memory=False)
 
 # Dependencies
 The project was developed using the following Python libraries:
