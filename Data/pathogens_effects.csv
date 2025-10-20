@@ -1,0 +1,746 @@
+Etiology,Total Deaths,Total Illnesses,Total Outbreaks
+Acanthamoeba unknown,0,2,1
+Adenovirus,0,65,2
+Adenovirus B,0,13,1
+"Adenovirus F;Escherichia coli, Enteropathogenic",0,7,1
+Adenovirus unknown,0,60,3
+Adenovirus;Adenovirus other,2,19,1
+Adenovirus;Clostridium other;Norovirus Genogroup II,1,26,1
+Adenovirus;Norovirus Genogroup I,0,48,1
+Adenovirus;Norovirus Genogroup II,0,87,3
+Adenovirus;Norovirus unknown,0,74,1
+"Adenovirus;Other - Virus;Other - Virus;Sapovirus;Norovirus Genogroup II;Escherichia coli, Enteropathogenic;Clostridium difficile",0,28,1
+Adenovirus;Rotavirus,0,18,1
+Adenovirus;Rotavirus;Other - Virus;Clostridium difficile,0,13,1
+"Aeromonas hydrophilia;Escherichia coli, Shiga toxin-producing",0,5,1
+Amnesic shellfish poison,0,2,1
+Anatoxin-a,0,28,1
+Anatoxin-a;Microcystis unknown,0,48,1
+Anisakis,0,14,1
+Astrovirus,0,453,22
+Astrovirus;Adenovirus;Rotavirus,0,29,1
+"Astrovirus;Adenovirus;Rotavirus;Escherichia coli, Shiga toxin-producing;Escherichia coli, Enterotoxigenic;Sapovirus;Escherichia coli, Enteropathogenic",0,60,1
+Astrovirus;Campylobacter jejuni;Shigella sonnei;Sapovirus,0,13,1
+Astrovirus;Clostridium difficile,0,2,1
+"Astrovirus;Escherichia coli, Enteropathogenic",0,8,1
+"Astrovirus;Escherichia coli, Other",0,8,1
+Astrovirus;Norovirus,0,11,1
+Astrovirus;Norovirus Genogroup I;Norovirus Genogroup II;Norovirus Genogroup II,0,1000,1
+Astrovirus;Norovirus Genogroup II,0,43,2
+Astrovirus;Norovirus Genogroup II;Norovirus Genogroup II,0,13,1
+Astrovirus;Norovirus unknown,0,49,2
+Astrovirus;Rotavirus;Giardia unknown;Sapovirus unknown;Norovirus unknown;Clostridium difficile,0,8,1
+Astrovirus;Rotavirus;Norovirus Genogroup II,0,26,1
+"Astrovirus;Salmonella enterica;Escherichia coli, Enteropathogenic;Shigella sonnei",0,23,1
+Astrovirus;Salmonella unknown,0,10,1
+Astrovirus;Salmonella unknown;Sapovirus,0,27,1
+Astrovirus;Sapovirus unknown,0,19,1
+Astrovirus;Sapovirus;Norovirus,0,156,10
+Astrovirus;Vibrio parahaemolyticus;Vibrio other;Sapovirus;Norovirus other,0,13,1
+Avian schistosomes,0,508,20
+Bacillus,0,145,4
+Bacillus cereus,1,5401,402
+Bacillus cereus;Bacillus cereus,0,3,1
+Bacillus cereus;Bacillus cereus;Clostridium perfringens,0,68,1
+Bacillus cereus;Bacillus other,0,5,1
+Bacillus cereus;Bacillus other;Staphylococcus aureus,0,28,1
+Bacillus cereus;Bacillus subtilus;Bacillus stearothermophilus,0,20,1
+Bacillus cereus;Campylobacter jejuni,0,8,1
+Bacillus cereus;Clostridium difficile,0,2,1
+Bacillus cereus;Clostridium perfringens,3,3845,256
+Bacillus cereus;Clostridium perfringens;Other - Bacterium,0,6,1
+Bacillus cereus;Clostridium perfringens;Staphylococcus aureus,0,172,6
+Bacillus cereus;Clostridium perfringens;Staphylococcus aureus;Norovirus Genogroup II,0,43,1
+Bacillus cereus;Clostridium perfringens;Staphylococcus aureus;Salmonella enterica,1,118,1
+Bacillus cereus;Enterobacter cloacae;Other - Bacterium,0,26,1
+Bacillus cereus;Norovirus,0,6,1
+Bacillus cereus;Norovirus Genogroup I,0,93,3
+Bacillus cereus;Salmonella enterica,0,9,1
+Bacillus cereus;Staphylococcus aureus,0,808,88
+Bacillus cereus;Staphylococcus aureus;Norovirus unknown,0,19,1
+Bacillus cereus;Staphylococcus aureus;Salmonella enterica,0,68,1
+Bacillus cereus;Staphylococcus other,0,179,1
+Bacillus other,0,15,1
+Bacillus other;Clostridium perfringens,0,5,1
+Bacillus other;Norovirus unknown,0,45,1
+Bacillus unknown,0,2,1
+Bacillus;Clostridium,0,56,3
+Bacillus;Clostridium perfringens,0,51,3
+Bacillus;Other - Chemical/Toxin,0,3,1
+Bacillus;Staphylococcus,0,7,1
+Blastocystis hominis;Campylobacter jejuni;Endolimax nana;Shigella unknown;Norovirus Genogroup I,0,45,1
+Blastocystis hominis;Giardia duodenalis,0,21,1
+Blastomyces gilchristii,1,121,1
+Bromate;Disinfection byproducts,0,2,1
+Bromine,0,3,1
+Brucella,0,3,1
+Brucella other,0,16,2
+Brucella unknown,0,15,4
+Campylobacter,0,524,90
+Campylobacter coli,0,158,25
+Campylobacter coli;Campylobacter other,0,6,1
+Campylobacter coli;Campylobacter unknown,0,2,1
+"Campylobacter coli;Escherichia coli, Enteropathogenic",0,14,1
+Campylobacter coli;Norovirus Genogroup II,0,9,1
+Campylobacter coli;Salmonella enterica,0,9,1
+"Campylobacter coli;Salmonella enterica;Escherichia coli, Enterotoxigenic;Cryptosporidium unknown;Escherichia coli, Enteropathogenic",0,2,1
+Campylobacter fetus,0,5,2
+Campylobacter jejuni,1,9363,587
+Campylobacter jejuni;Campylobacter coli,0,29,6
+Campylobacter jejuni;Campylobacter coli;Campylobacter,0,13,1
+Campylobacter jejuni;Campylobacter coli;Campylobacter coli,0,4,1
+Campylobacter jejuni;Campylobacter coli;Campylobacter unknown,0,49,3
+Campylobacter jejuni;Campylobacter coli;Salmonella enterica,0,8,1
+Campylobacter jejuni;Campylobacter coli;Salmonella enterica;Campylobacter unknown,0,203,1
+Campylobacter jejuni;Campylobacter jejuni,0,2,1
+Campylobacter jejuni;Campylobacter jejuni;Campylobacter lari,0,8,1
+Campylobacter jejuni;Campylobacter lari,0,6,1
+Campylobacter jejuni;Campylobacter other,0,13,1
+Campylobacter jejuni;Campylobacter unknown,0,93,5
+Campylobacter jejuni;Clostridium perfringens,0,110,2
+Campylobacter jejuni;Cryptosporidium parvum,0,17,2
+"Campylobacter jejuni;Escherichia coli, Enterotoxigenic;Cryptosporidium unknown",0,9,1
+"Campylobacter jejuni;Escherichia coli, Shiga toxin-producing",2,921,12
+"Campylobacter jejuni;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",0,60,1
+Campylobacter jejuni;Giardia duodenalis;Norovirus other,0,1450,1
+Campylobacter jejuni;Giardia unknown,0,9,1
+Campylobacter jejuni;Giardia unknown;Entamoeba unknown,0,27,1
+Campylobacter jejuni;Listeria monocytogenes,0,6,1
+Campylobacter jejuni;Norovirus Genogroup I,0,29,1
+Campylobacter jejuni;Norovirus Genogroup II,0,12,1
+Campylobacter jejuni;Norovirus other;Norovirus other,0,139,1
+Campylobacter jejuni;Norovirus unknown,0,41,3
+Campylobacter jejuni;Norovirus unknown;Shigella sonnei,0,250,1
+Campylobacter jejuni;Salmonella enterica,0,223,13
+Campylobacter jejuni;Salmonella enterica;Salmonella enterica,0,14,1
+Campylobacter jejuni;Shigella sonnei,0,7,1
+Campylobacter jejuni;Shigella unknown,0,57,1
+Campylobacter jejuni;Staphylococcus aureus,0,20,1
+Campylobacter jejuni;Yersinia enterocolitica,0,12,1
+Campylobacter lari;Campylobacter jejuni;Helicobacter canadensis;Cryptosporidium unknown,0,82,1
+Campylobacter other,0,35,6
+"Campylobacter other;Escherichia coli, Enteroaggregative",0,6,1
+Campylobacter other;Norovirus Genogroup I,0,88,1
+Campylobacter other;Norovirus Genogroup II,0,3,1
+Campylobacter other;Vibrio other;Vibrio cholerae,0,4,1
+Campylobacter unknown,0,1654,293
+Campylobacter unknown;Campylobacter jejuni,0,126,2
+Campylobacter unknown;Campylobacter unknown,0,67,1
+Campylobacter unknown;Cryptosporidium unknown,0,24,2
+"Campylobacter unknown;Escherichia coli, Shiga toxin-producing",0,18,2
+"Campylobacter unknown;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Cryptosporidium unknown;Cryptosporidium parvum",0,23,1
+Campylobacter unknown;Giardia duodenalis,0,13,2
+Campylobacter unknown;Giardia unknown,0,7,1
+Campylobacter unknown;Norovirus,0,32,1
+Campylobacter unknown;Norovirus Genogroup II,0,117,4
+Campylobacter unknown;Norovirus Genogroup II;Norovirus Genogroup II,0,45,1
+Campylobacter unknown;Norovirus unknown,0,37,2
+Campylobacter unknown;Norovirus unknown;Clostridium difficile,0,27,1
+Campylobacter unknown;Other - Bacterium,0,3,1
+Campylobacter unknown;Other - Bacterium;Norovirus Genogroup II,0,7,1
+Campylobacter unknown;Salmonella enterica,0,62,4
+Campylobacter unknown;Salmonella enterica;Salmonella enterica,0,3,1
+Campylobacter unknown;Salmonella unknown,0,9,2
+Campylobacter unknown;Salmonella unknown;Norovirus Genogroup I,0,229,1
+Campylobacter unknown;Shigella unknown,0,13,1
+Campylobacter unknown;Shigella unknown;Norovirus Genogroup II,0,6,1
+Campylobacter;Campylobacter,0,8,2
+Campylobacter;Campylobacter jejuni,0,2,1
+Campylobacter;Campylobacter jejuni;Campylobacter jejuni;Campylobacter coli,0,23,1
+Campylobacter;Clostridium,0,2,1
+Campylobacter;Cryptosporidium,0,9,1
+Campylobacter;Norovirus,0,18,1
+Campylobacter;Norovirus Genogroup I,1,63,1
+Campylobacter;Norovirus Genogroup II,0,226,1
+Campylobacter;Norovirus unknown,0,26,2
+Campylobacter;Rotavirus,0,33,1
+Campylobacter;Salmonella enterica,0,12,2
+"Campylobacter;Salmonella enterica;Escherichia coli, Shiga toxin-producing",0,6,1
+Campylobacter;Salmonella enterica;Salmonella enterica,0,31,1
+Campylobacter;Shigella sonnei,0,19,1
+Chloramines,0,1417,18
+Chlorine,0,473,36
+Chlorine Gas,0,282,20
+Chlorine Gas;Other - Chemical/Toxin,0,9,1
+Chlorine;Chlorine Gas,0,2,1
+Chlorine;Hydrochloric Acid,0,30,1
+Chlorine;Muriatic acid,0,2,1
+Chlorine;Other,0,34,1
+Chlorine;Pseudomonas aeruginosa,0,6,1
+Ciguatoxin,1,1386,379
+Ciguatoxin;Staphylococcus aureus,0,28,2
+Cleaning agents,0,56,14
+Clostridium,1,834,69
+Clostridium botulinum,18,276,77
+Clostridium difficile,8,1063,117
+"Clostridium difficile;Adenovirus unknown;Escherichia coli, Unknown;Rotavirus;Norovirus unknown",0,35,1
+"Clostridium difficile;Escherichia coli, Enteroaggregative;Yersinia enterocolitica;Adenovirus F;Sapovirus unknown",0,2,1
+"Clostridium difficile;Escherichia coli, Shiga toxin-producing",0,15,1
+Clostridium difficile;Norovirus Genogroup I,0,15,1
+Clostridium difficile;Norovirus Genogroup II,0,9,1
+Clostridium difficile;Norovirus unknown,0,90,2
+Clostridium difficile;Rotavirus,0,71,1
+Clostridium other,11,427,46
+Clostridium other;Cryptosporidium unknown;Norovirus unknown,0,129,1
+"Clostridium other;Escherichia coli, Enteropathogenic",0,12,1
+Clostridium other;Norovirus,2,111,2
+Clostridium other;Norovirus Genogroup I,0,55,1
+Clostridium other;Norovirus Genogroup II,1,618,8
+Clostridium other;Norovirus unknown,1,425,9
+Clostridium other;Salmonella enterica,0,9,1
+Clostridium perfringens,16,34386,926
+Clostridium perfringens;Bacillus cereus,0,172,9
+"Clostridium perfringens;Bacillus cereus;Staphylococcus aureus;Yersinia enterocolitica;Clostridium difficile;Escherichia coli, Shiga toxin-producing",0,42,1
+Clostridium perfringens;Clostridium difficile,0,35,1
+Clostridium perfringens;Clostridium perfringens,0,160,4
+Clostridium perfringens;Enterobacter other;Proteus mirabilis;Vibrio parahaemolyticus;Vibrio unknown;Other - Bacterium;Other - Bacterium;Other - Bacterium,0,9,1
+"Clostridium perfringens;Escherichia coli, Enteropathogenic",0,8,1
+"Clostridium perfringens;Escherichia coli, Enterotoxigenic;Escherichia coli, Enteropathogenic",0,90,1
+Clostridium perfringens;Norovirus,0,28,3
+Clostridium perfringens;Norovirus Genogroup I,0,116,3
+Clostridium perfringens;Norovirus Genogroup II,0,852,2
+Clostridium perfringens;Norovirus unknown,0,23,2
+Clostridium perfringens;Other - Bacterium,0,10,2
+Clostridium perfringens;Salmonella enterica,0,57,1
+Clostridium perfringens;Salmonella enterica;Cryptosporidium unknown,0,8,1
+Clostridium perfringens;Salmonella enterica;Salmonella enterica,0,35,1
+Clostridium perfringens;Staphylococcus aureus,0,391,9
+"Clostridium perfringens;Staphylococcus aureus;Clostridium difficile;Escherichia coli, Enteropathogenic",0,60,1
+Clostridium perfringens;Staphylococcus aureus;Salmonella enterica,0,59,1
+Clostridium perfringens;Staphylococcus aureus;Staphylococcus other,0,47,1
+Clostridium perfringens;Streptococcus Group A,0,37,1
+Clostridium unknown,1,60,4
+Clostridium unknown;Norovirus unknown,1,7,1
+Clostridium;Adenovirus,0,29,1
+Clostridium;Norovirus,0,144,5
+Clostridium;Norovirus unknown,0,7,1
+Copper,0,92,9
+Copper;Other Minerals,0,4,1
+Cryptosporidium,1,486,72
+Cryptosporidium hominis,0,7405,89
+Cryptosporidium hominis;Cryptosporidium hominis,0,3711,5
+Cryptosporidium hominis;Cryptosporidium hominis;Cryptosporidium hominis;Cryptosporidium unknown;Cryptosporidium unknown;Cryptosporidium unknown,0,126,1
+Cryptosporidium hominis;Cryptosporidium hominis;Cryptosporidium parvum,0,13,1
+Cryptosporidium hominis;Cryptosporidium other,0,9,1
+Cryptosporidium hominis;Cryptosporidium parvum,0,22,1
+Cryptosporidium hominis;Cryptosporidium unknown,0,202,5
+Cryptosporidium hominis;Giardia duodenalis,0,74,2
+Cryptosporidium other,0,18,3
+Cryptosporidium parvum,0,5451,168
+Cryptosporidium parvum;Cryptosporidium hominis,0,14,1
+Cryptosporidium parvum;Cryptosporidium parvum,0,50,4
+Cryptosporidium parvum;Cryptosporidium unknown,0,94,2
+Cryptosporidium parvum;Cryptosporidium unknown;Cryptosporidium other;Cryptosporidium parvum,0,17,1
+Cryptosporidium parvum;Cryptosporidium unknown;Cryptosporidium unknown,0,9,1
+"Cryptosporidium parvum;Cryptosporidium unknown;Escherichia coli, Enteropathogenic;Escherichia coli, Enteroaggregative",0,10,1
+"Cryptosporidium parvum;Escherichia coli, Enterotoxigenic",0,10,1
+"Cryptosporidium parvum;Escherichia coli, Shiga toxin-producing",0,262,4
+Cryptosporidium parvum;Giardia duodenalis,0,240,2
+Cryptosporidium parvum;Shigella sonnei,0,53,2
+Cryptosporidium unknown,0,12789,412
+Cryptosporidium unknown;Cryptosporidium parvum,0,19,3
+Cryptosporidium unknown;Cryptosporidium unknown,0,68,3
+Cryptosporidium unknown;Cyclospora cayetanensis,0,6,1
+"Cryptosporidium unknown;Escherichia coli, Shiga toxin-producing",0,2,1
+Cryptosporidium unknown;Giardia duodenalis,0,4,1
+Cryptosporidium unknown;Giardia unknown,0,72,3
+Cryptosporidium unknown;Giardia unknown;Cryptosporidium parvum,0,54,1
+"Cryptosporidium unknown;Giardia unknown;Escherichia coli, Shiga toxin-producing;Escherichia coli, Other",0,101,1
+Cryptosporidium unknown;Giardia unknown;Norovirus Genogroup I,0,125,1
+"Cryptosporidium unknown;Giardia unknown;Norovirus unknown;Escherichia coli, Enteropathogenic;Escherichia coli, Enteropathogenic;Escherichia coli, Enteroaggregative;Escherichia coli, Enteroinvasive;Norovirus Genogroup I;Norovirus Genogroup II;Norovirus Genogroup IX",0,693,1
+Cryptosporidium unknown;Norovirus Genogroup I,0,45,1
+Cryptosporidium unknown;Norovirus Genogroup II,0,27,1
+Cryptosporidium unknown;Norovirus unknown,0,7,1
+Cryptosporidium unknown;Sapovirus;Norovirus unknown,0,45,1
+Cryptosporidium unknown;Shigella sonnei;Norovirus unknown,0,44,1
+Cryptosporidium unknown;Shigella unknown,0,3,1
+"Cryptosporidium;Campylobacter jejuni;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",0,11,1
+Cryptosporidium;Clostridium difficile,0,33,1
+Cryptosporidium;Cryptosporidium,0,8,2
+Cryptosporidium;Cryptosporidium parvum,0,16,2
+Cryptosporidium;Cryptosporidium parvum;Cryptosporidium hominis,0,10,1
+"Cryptosporidium;Cryptosporidium parvum;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",0,79,1
+"Cryptosporidium;Escherichia coli, Enteropathogenic",0,13,1
+Cryptosporidium;Giardia,0,8,1
+Cryptosporidium;Norovirus Genogroup II,0,32,2
+"Cryptosporidium;Norovirus Genogroup II;Sapovirus unknown;Escherichia coli, Enteropathogenic;Escherichia coli, Enteroaggregative;Rotavirus",0,16,1
+"Cryptosporidium;Sapovirus;Escherichia coli, Enteropathogenic;Escherichia coli, Enterotoxigenic",0,3,1
+Cryptosporidium;Shigella sonnei,0,14,1
+Cyanotoxin,0,129,5
+Cyanotoxin other,0,40,2
+Cyanotoxin other;Microcystis other;Other - Bacterium,0,2,1
+Cyanotoxin other;Microcystis unknown,0,3,1
+Cyanotoxin unknown,0,303,19
+Cyanotoxin unknown;Other - Bacterium,0,2,1
+Cyanotoxin unknown;Saxitoxin;Other - Bacterium,0,2,1
+Cyclospora,0,358,17
+Cyclospora cayetanensis,0,5283,156
+Cyclospora cayetanensis;Cyclospora cayetanensis,0,559,1
+Cyclospora cayetanensis;Entamoeba coli,0,6,1
+Cyclospora cayetanensis;Other - Parasite,0,12,1
+Entamoeba histolytica,0,59,1
+Enterobacter,0,5,1
+Enterobacter other,0,2,1
+Enterococcus faecalis,0,13,1
+Enterovirus unknown,0,7,1
+Escherichia,0,9,2
+"Escherichia coli, Enteroaggregative",0,209,16
+"Escherichia coli, Enteroaggregative;Adenovirus F",0,5,1
+"Escherichia coli, Enteroaggregative;Escherichia coli, Enteroaggregative",0,6,1
+"Escherichia coli, Enteroaggregative;Escherichia coli, Enteropathogenic",0,94,2
+"Escherichia coli, Enteroaggregative;Escherichia coli, Enteropathogenic;Escherichia coli, Enterotoxigenic",0,2,1
+"Escherichia coli, Enteroaggregative;Escherichia coli, Enterotoxigenic",0,6,1
+"Escherichia coli, Enteroaggregative;Escherichia coli, Enterotoxigenic;Escherichia coli, Enteropathogenic",0,77,2
+"Escherichia coli, Enteroaggregative;Giardia unknown;Escherichia coli, Enteropathogenic;Adenovirus unknown",0,4,1
+"Escherichia coli, Enteroaggregative;Giardia unknown;Norovirus unknown",0,21,1
+"Escherichia coli, Enteroaggregative;Norovirus Genogroup I",0,42,3
+"Escherichia coli, Enteroaggregative;Norovirus Genogroup I;Clostridium difficile",0,22,1
+"Escherichia coli, Enteroaggregative;Norovirus Genogroup II",0,16,1
+"Escherichia coli, Enteroaggregative;Norovirus unknown",0,16,1
+"Escherichia coli, Enteroaggregative;Norovirus unknown;Escherichia coli, Enteropathogenic",0,9,1
+"Escherichia coli, Enteroaggregative;Norovirus unknown;Norovirus Genogroup II;Escherichia coli, Enteropathogenic",0,690,1
+"Escherichia coli, Enteroaggregative;Norovirus;Escherichia coli, Enteropathogenic",0,20,1
+"Escherichia coli, Enteroaggregative;Sapovirus unknown",0,3,1
+"Escherichia coli, Enteroaggregative;Sapovirus;Norovirus Genogroup II",0,45,1
+"Escherichia coli, Enteroinvasive",0,110,4
+"Escherichia coli, Enteroinvasive;Escherichia coli, Enteroinvasive",0,16,1
+"Escherichia coli, Enteropathogenic",0,877,38
+"Escherichia coli, Enteropathogenic;Adenovirus F",0,3,1
+"Escherichia coli, Enteropathogenic;Adenovirus F;Clostridium difficile",0,7,1
+"Escherichia coli, Enteropathogenic;Campylobacter unknown",0,8,1
+"Escherichia coli, Enteropathogenic;Clostridium difficile",0,80,1
+"Escherichia coli, Enteropathogenic;Escherichia coli, Enteroaggregative",0,40,2
+"Escherichia coli, Enteropathogenic;Escherichia coli, Enteroaggregative;Sapovirus;Norovirus unknown",0,12,1
+"Escherichia coli, Enteropathogenic;Escherichia coli, Enteropathogenic",0,32,1
+"Escherichia coli, Enteropathogenic;Escherichia coli, Enterotoxigenic;Escherichia coli, Enteroinvasive;Escherichia coli, Enteroaggregative",0,205,1
+"Escherichia coli, Enteropathogenic;Norovirus",0,54,1
+"Escherichia coli, Enteropathogenic;Norovirus Genogroup I",0,44,2
+"Escherichia coli, Enteropathogenic;Norovirus Genogroup II",0,102,4
+"Escherichia coli, Enteropathogenic;Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II;Clostridium difficile",0,19,1
+"Escherichia coli, Enteropathogenic;Norovirus unknown",0,3,1
+"Escherichia coli, Enteropathogenic;Salmonella enterica",0,29,1
+"Escherichia coli, Enteropathogenic;Salmonella enterica;Clostridium difficile",0,4,1
+"Escherichia coli, Enteropathogenic;Sapovirus unknown",0,4,1
+"Escherichia coli, Enteropathogenic;Sapovirus unknown;Adenovirus unknown",0,4,1
+"Escherichia coli, Enteropathogenic;Sapovirus;Astrovirus",0,48,1
+"Escherichia coli, Enterotoxigenic",0,2180,25
+"Escherichia coli, Enterotoxigenic;Escherichia coli, Enteroaggregative",0,16,2
+"Escherichia coli, Enterotoxigenic;Escherichia coli, Enteropathogenic",0,12,1
+"Escherichia coli, Enterotoxigenic;Escherichia coli, Enteropathogenic;Norovirus Genogroup I;Norovirus Genogroup I;Norovirus Genogroup II",0,105,1
+"Escherichia coli, Enterotoxigenic;Escherichia coli, Shiga toxin-producing;Cryptosporidium unknown",0,5,1
+"Escherichia coli, Enterotoxigenic;Norovirus unknown",0,11,1
+"Escherichia coli, Enterotoxigenic;Norovirus unknown;Clostridium difficile",0,17,1
+"Escherichia coli, Other",0,39,10
+"Escherichia coli, Other;Escherichia coli, Enteroaggregative;Escherichia coli, Enteroaggregative;Escherichia coli, Enteroaggregative;Escherichia coli, Enterotoxigenic;Escherichia coli, Enterotoxigenic",0,64,1
+"Escherichia coli, Other;Salmonella unknown",0,2,1
+"Escherichia coli, Shiga toxin-producing",63,15320,1208
+"Escherichia coli, Shiga toxin-producing;Campylobacter jejuni",0,7,1
+"Escherichia coli, Shiga toxin-producing;Campylobacter unknown",0,21,1
+"Escherichia coli, Shiga toxin-producing;Cryptosporidium parvum",0,10,1
+"Escherichia coli, Shiga toxin-producing;Cryptosporidium unknown",0,35,7
+"Escherichia coli, Shiga toxin-producing;Cryptosporidium unknown;Cryptosporidium parvum",0,14,1
+"Escherichia coli, Shiga toxin-producing;Cryptosporidium unknown;Sapovirus unknown;Escherichia coli, Enteropathogenic;Escherichia coli, Shiga toxin-producing",0,35,1
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Enteropathogenic",0,3,1
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Enterotoxigenic;Adenovirus unknown",0,5,1
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Enterotoxigenic;Escherichia coli, Enteropathogenic;Norovirus unknown;Clostridium difficile;Escherichia coli, Enteroaggregative;Rotavirus;Sapovirus;Escherichia coli, Shiga toxin-producing",0,16,1
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",8,1315,52
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Cryptosporidium unknown",0,12,1
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",0,176,5
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",0,43,2
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Norovirus Genogroup II",0,5,1
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Norovirus Genogroup IX",0,37,1
+"Escherichia coli, Shiga toxin-producing;Escherichia coli, Unknown",0,3,1
+"Escherichia coli, Shiga toxin-producing;Norovirus Genogroup I",0,52,1
+"Escherichia coli, Shiga toxin-producing;Norovirus Genogroup II",0,48,2
+"Escherichia coli, Shiga toxin-producing;Norovirus Genogroup II;Norovirus Genogroup II",0,7,1
+"Escherichia coli, Shiga toxin-producing;Norovirus unknown",0,20,1
+"Escherichia coli, Shiga toxin-producing;Rotavirus",0,9,1
+"Escherichia coli, Shiga toxin-producing;Salmonella enterica",0,6,1
+"Escherichia coli, Shiga toxin-producing;Sapovirus unknown;Escherichia coli, Enteropathogenic;Escherichia coli, Shiga toxin-producing;Clostridium difficile",0,6,1
+"Escherichia coli, Shiga toxin-producing;Staphylococcus aureus;Escherichia coli, Enteropathogenic",0,33,1
+"Escherichia coli, Unknown",0,27,1
+Ethyl benzene;Toluene;Xylene,0,2,1
+Ethylene Glycol,0,3,1
+Giardia,0,175,43
+Giardia duodenalis,0,1160,118
+Giardia duodenalis;Cryptosporidium unknown;Shigella sonnei,0,41,1
+"Giardia duodenalis;Escherichia coli, Enteropathogenic;Cryptosporidium parvum",0,5,1
+"Giardia duodenalis;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",0,13,1
+Giardia duodenalis;Giardia duodenalis;Giardia duodenalis;Giardia duodenalis;Giardia duodenalis,0,26,1
+Giardia unknown,0,417,71
+Giardia unknown;Adenovirus unknown,0,11,1
+Giardia unknown;Norovirus unknown,0,14,2
+"Giardia unknown;Norovirus unknown;Escherichia coli, Enteropathogenic",0,12,1
+"Giardia;Campylobacter jejuni;Escherichia coli, Shiga toxin-producing",0,38,1
+Giardia;Cryptosporidium hominis,0,4,1
+Giardia;Norovirus,0,17,2
+Giardia;Norovirus Genogroup II,0,8,1
+Giardia;Norovirus unknown,0,77,1
+"Giardia;Rotavirus;Clostridium other;Escherichia coli, Enteropathogenic",0,30,1
+Giardia;Rotavirus;Sapovirus;Norovirus unknown,0,22,1
+Heavy metals,0,108,10
+Hepatitis A,14,3052,112
+Hepatitis A;Hepatitis A,0,62,3
+Histamine,0,230,47
+Hydrochloric Acid,0,8,2
+Legionella,1,23,8
+Legionella anisa,0,120,2
+Legionella anisa;Legionella anisa,1,43,1
+Legionella anisa;Legionella pneumophila,3,9,4
+Legionella anisa;Legionella pneumophila;Legionella pneumophila,0,2,1
+Legionella dumoffii;Legionella pneumophila,0,6,1
+Legionella longbeachae;Legionella pneumophila;Legionella pneumophila;Legionella pneumophila,0,3,1
+Legionella micdadei,0,92,2
+Legionella other;Legionella pneumophila,0,11,1
+Legionella other;Legionella pneumophila;Legionella pneumophila,0,2,1
+Legionella pneumophila,256,3365,711
+Legionella pneumophila;Legionella other;Legionella pneumophila,0,4,1
+Legionella pneumophila;Legionella pneumophila,32,603,48
+Legionella pneumophila;Legionella pneumophila;Legionella pneumophila,1,10,3
+Legionella unknown,18,484,57
+Legionella unknown;Legionella pneumophila,1,27,8
+Legionella unknown;Legionella pneumophila;Legionella pneumophila,0,2,1
+Legionella unknown;Legionella unknown;Legionella pneumophila,0,4,1
+Leptospira interrogans,0,66,3
+Leptospira interrogans;Leptospira interrogans,0,3,1
+Leptospira unknown,0,7,3
+Listeria,0,10,2
+Listeria monocytogenes,223,1529,140
+Listeria monocytogenes;Listeria monocytogenes,5,20,1
+Listeria monocytogenes;Norovirus Genogroup I,0,56,1
+Listeria unknown,0,2,1
+Microcystis,0,50,7
+Microcystis unknown,0,14,2
+Microcystis unknown;Cyanotoxin other;Other - Bacterium,0,2,1
+Microcystis unknown;Other - Bacterium;Other - Chemical/Toxin,0,8,1
+Monosodium glutamate (MSG),0,2,1
+Mycobacterium abscessus,0,48,3
+Mycobacterium avium,0,9,1
+Mycobacterium avium complex,0,3,1
+Mycobacterium mageritense,0,2,1
+Mycobacterium other,0,15,2
+Mycotoxins,7,191,36
+Naegleria fowleri,2,2,1
+Naegleria fowleri;Naegleria fowleri,2,2,1
+Neurotoxic shellfish poison,0,36,10
+Neurotoxic shellfish poison;Paralytic shellfish poison,0,3,1
+Nitrite,0,14,1
+Norovirus,228,282782,9090
+Norovirus Genogroup I,50,124839,4091
+Norovirus Genogroup I;Adenovirus unknown,0,182,2
+Norovirus Genogroup I;Clostridium difficile,0,95,4
+Norovirus Genogroup I;Clostridium difficile;Norovirus Genogroup I,0,6,1
+"Norovirus Genogroup I;Escherichia coli, Enteropathogenic",0,44,2
+"Norovirus Genogroup I;Escherichia coli, Enteropathogenic;Norovirus Genogroup I",0,29,1
+"Norovirus Genogroup I;Escherichia coli, Shiga toxin-producing",0,29,1
+Norovirus Genogroup I;Norovirus Genogroup I,2,2737,92
+Norovirus Genogroup I;Norovirus Genogroup I;Norovirus Genogroup I,0,220,7
+Norovirus Genogroup I;Norovirus Genogroup I;Norovirus Genogroup II,1,95,2
+Norovirus Genogroup I;Norovirus Genogroup II,4,4031,91
+"Norovirus Genogroup I;Norovirus Genogroup II;Escherichia coli, Enterotoxigenic",0,19,1
+Norovirus Genogroup I;Norovirus Genogroup II;Norovirus Genogroup II,0,21,1
+Norovirus Genogroup I;Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II,0,97,1
+Norovirus Genogroup I;Norovirus Genogroup II;Norovirus unknown;Sapovirus unknown,0,94,1
+Norovirus Genogroup I;Norovirus unknown;Norovirus Genogroup I,0,28,1
+Norovirus Genogroup I;Rotavirus,0,36,1
+Norovirus Genogroup I;Salmonella enterica,0,10,1
+Norovirus Genogroup II,458,303297,9141
+Norovirus Genogroup II;Astrovirus;Rotavirus,0,34,1
+Norovirus Genogroup II;Campylobacter;Clostridium difficile;Norovirus Genogroup II;Norovirus Genogroup II,0,12,1
+Norovirus Genogroup II;Clostridium difficile,0,414,18
+"Norovirus Genogroup II;Escherichia coli, Enteropathogenic",0,58,3
+"Norovirus Genogroup II;Escherichia coli, Enteropathogenic;Escherichia coli, Enterotoxigenic",0,16,1
+"Norovirus Genogroup II;Escherichia coli, Enterotoxigenic",0,17,1
+Norovirus Genogroup II;Giardia unknown,0,23,1
+Norovirus Genogroup II;Norovirus,0,60,5
+Norovirus Genogroup II;Norovirus Genogroup I,2,468,12
+Norovirus Genogroup II;Norovirus Genogroup I;Norovirus Genogroup II,0,23,1
+Norovirus Genogroup II;Norovirus Genogroup II,26,16845,486
+Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II,4,2039,43
+Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II,0,63,4
+Norovirus Genogroup II;Norovirus unknown,1,142,6
+Norovirus Genogroup II;Norovirus unknown;Norovirus Genogroup II,0,322,1
+Norovirus Genogroup II;Rotavirus,0,62,2
+Norovirus Genogroup II;Salmonella enterica,0,4,1
+Norovirus Genogroup II;Sapovirus Genogroup V,0,65,1
+Norovirus Genogroup II;Yersinia enterocolitica,0,4,1
+Norovirus Genogroup IV,0,144,3
+Norovirus Genogroup IV;Norovirus Genogroup II,0,13,1
+Norovirus Genogroup IX,1,462,8
+Norovirus other,1,1835,25
+Norovirus other;Norovirus Genogroup I,0,14,1
+Norovirus other;Norovirus Genogroup II,0,74,3
+Norovirus unknown,250,232366,8528
+Norovirus unknown;Adenovirus unknown,0,69,2
+Norovirus unknown;Adenovirus unknown;Clostridium difficile,0,21,1
+"Norovirus unknown;Campylobacter unknown;Escherichia coli, Enteropathogenic",0,33,1
+Norovirus unknown;Clostridium difficile,6,1220,42
+"Norovirus unknown;Escherichia coli, Enteropathogenic",0,15,1
+"Norovirus unknown;Escherichia coli, Enteropathogenic;Norovirus Genogroup I;Norovirus Genogroup II;Clostridium difficile",0,39,1
+"Norovirus unknown;Escherichia coli, Enteropathogenic;Norovirus Genogroup II",0,58,1
+"Norovirus unknown;Escherichia coli, Shiga toxin-producing",0,25,2
+Norovirus unknown;Giardia unknown,0,12,1
+Norovirus unknown;Norovirus Genogroup I,2,564,16
+Norovirus unknown;Norovirus Genogroup I;Clostridium difficile,1,27,1
+Norovirus unknown;Norovirus Genogroup I;Norovirus Genogroup I,0,7,1
+Norovirus unknown;Norovirus Genogroup I;Norovirus Genogroup I;Norovirus Genogroup II;Norovirus Genogroup I;Norovirus Genogroup II,0,179,1
+Norovirus unknown;Norovirus Genogroup I;Norovirus Genogroup II,0,42,1
+Norovirus unknown;Norovirus Genogroup II,7,4545,98
+Norovirus unknown;Norovirus Genogroup II;Clostridium difficile,0,106,5
+Norovirus unknown;Norovirus Genogroup II;Norovirus Genogroup II,1,608,14
+Norovirus unknown;Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II,0,23,1
+Norovirus unknown;Norovirus Genogroup IX,0,8,1
+Norovirus unknown;Norovirus unknown,0,285,14
+Norovirus unknown;Rotavirus,0,42,2
+Norovirus unknown;Salmonella enterica,0,8,1
+Norovirus unknown;Salmonella unknown,0,24,1
+Norovirus unknown;Sapovirus,0,22,1
+Norovirus unknown;Staphylococcus aureus,0,3,1
+Norovirus;Clostridium difficile,1,113,4
+"Norovirus;Escherichia coli, Enteropathogenic",0,9,1
+Norovirus;Norovirus,0,326,10
+Norovirus;Norovirus Genogroup I,0,188,4
+Norovirus;Norovirus Genogroup I;Norovirus Genogroup II;Norovirus Genogroup II,0,16,1
+Norovirus;Norovirus Genogroup II,1,261,10
+Norovirus;Norovirus Genogroup II;Norovirus Genogroup II,0,80,3
+Norovirus;Norovirus unknown,0,33,1
+Norovirus;Norovirus;Norovirus,0,17,1
+Norovirus;Rotavirus,0,19,1
+Norovirus;Staphylococcus aureus,0,148,1
+Other,1,224,26
+Other - Bacterium,3,1424,158
+Other - Bacterium;Bacillus unknown,0,175,1
+Other - Bacterium;Cyanotoxin unknown;Microcystis unknown,0,3,1
+Other - Bacterium;Norovirus Genogroup II,0,2,1
+Other - Bacterium;Norovirus unknown,0,80,2
+Other - Bacterium;Other - Chemical/Toxin,0,2,1
+Other - Bacterium;Saxitoxin;Other - Chemical/Toxin,0,2,1
+Other - Chemical/Toxin,1,2152,179
+Other - Chemical/Toxin;Anatoxin-a,0,13,1
+Other - Chemical/Toxin;Other - Bacterium;Other - Bacterium,0,2,1
+Other - Chemical/Toxin;Other - Chemical/Toxin,0,2,1
+Other - Parasite,0,21,2
+Other - Parasite;Other - Parasite;Other - Parasite,0,5,1
+Other - Virus,0,3153,108
+"Other - Virus;Escherichia coli, Enterotoxigenic;Vibrio cholerae",0,2,1
+Other - Virus;Other,0,6,1
+Other;Norovirus,0,186,2
+Other;Norovirus unknown,0,49,1
+Other;Other;Norovirus Genogroup II;Norovirus Genogroup II,0,22,1
+Pantoea agglomerans;Pantoea agglomerans,0,12,1
+Paralytic shellfish poison,0,75,17
+Paralytic shellfish poison;Paralytic shellfish poison,0,3,1
+Pesticides,0,87,4
+Plant/Herbal toxins,0,1389,8
+Plesiomonas shigelloides,0,13,4
+"Plesiomonas shigelloides;Escherichia coli, Shiga toxin-producing;Shigella sonnei",0,56,1
+Providencia unknown,0,55,1
+Pseudomonas aeruginosa,6,1237,73
+Pseudomonas aeruginosa;Pseudomonas aeruginosa,0,30,1
+Pseudomonas aeruginosa;Staphylococcus aureus,0,6,1
+Pseudomonas unknown,0,281,18
+Pseudomonas;Pseudomonas unknown,0,2,1
+Puffer fish tetrodotoxin,0,9,3
+Rotavirus,21,4565,225
+Rotavirus;Adenovirus F,0,20,1
+Rotavirus;Campylobacter unknown,0,7,1
+"Rotavirus;Campylobacter unknown;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing;Escherichia coli, Shiga toxin-producing",0,20,1
+Rotavirus;Clostridium difficile,2,76,5
+Rotavirus;Clostridium other;Norovirus,0,6,1
+Rotavirus;Clostridium other;Norovirus unknown;Norovirus Genogroup II,0,96,1
+Rotavirus;Clostridium perfringens;Norovirus Genogroup I,0,106,1
+"Rotavirus;Escherichia coli, Enteroaggregative",0,9,1
+"Rotavirus;Escherichia coli, Enteropathogenic",0,33,2
+"Rotavirus;Escherichia coli, Shiga toxin-producing;Sapovirus",0,12,1
+Rotavirus;Giardia unknown;Sapovirus unknown,0,7,1
+Rotavirus;Norovirus,2,97,7
+Rotavirus;Norovirus Genogroup I,0,3,1
+Rotavirus;Norovirus Genogroup I;Norovirus Genogroup II,0,47,1
+Rotavirus;Norovirus Genogroup II,0,190,8
+Rotavirus;Norovirus Genogroup II;Clostridium difficile,0,11,1
+Rotavirus;Norovirus unknown,1,535,15
+Rotavirus;Norovirus unknown;Norovirus Genogroup II,1,205,1
+Rotavirus;Norovirus;Norovirus Genogroup II,0,30,1
+Rotavirus;Rotavirus,0,8,1
+Rotavirus;Salmonella enterica,0,11,1
+Rotavirus;Salmonella enterica;Norovirus Genogroup I;Norovirus Genogroup II,0,21,1
+Rotavirus;Salmonella enterica;Sapovirus,0,33,1
+Rotavirus;Salmonella unknown,0,42,1
+Rotavirus;Sapovirus,0,40,3
+"Rotavirus;Sapovirus;Escherichia coli, Enteropathogenic;Clostridium difficile",0,9,1
+Rotavirus;Sapovirus;Norovirus,0,14,1
+Rotavirus;Shigella sonnei;Norovirus Genogroup II,0,9,1
+Rotavirus;Yersinia enterocolitica,0,15,1
+Rotavirus;Yersinia unknown;Norovirus unknown,0,5,1
+Salmonella,0,236,57
+Salmonella bongori,0,2,1
+Salmonella enterica,149,100854,4109
+Salmonella enterica;Clostridium difficile,0,5,1
+Salmonella enterica;Cryptosporidium unknown;Cryptosporidium parvum,0,4,1
+Salmonella enterica;Cryptosporidium unknown;Giardia unknown,0,3,1
+"Salmonella enterica;Escherichia coli, Shiga toxin-producing",0,27,3
+"Salmonella enterica;Escherichia coli, Shiga toxin-producing;Escherichia coli, Enterotoxigenic;Other - Bacterium;Escherichia coli, Enteropathogenic",0,12,1
+"Salmonella enterica;Escherichia coli, Shiga toxin-producing;Norovirus",0,14,1
+Salmonella enterica;Norovirus,0,38,2
+Salmonella enterica;Norovirus Genogroup I,0,43,3
+Salmonella enterica;Norovirus Genogroup II,0,56,4
+Salmonella enterica;Norovirus Genogroup II;Norovirus Genogroup II,0,17,1
+Salmonella enterica;Norovirus unknown,0,212,8
+Salmonella enterica;Salmonella enterica,12,5599,117
+"Salmonella enterica;Salmonella enterica;Escherichia coli, Shiga toxin-producing",0,39,2
+Salmonella enterica;Salmonella enterica;Norovirus,0,10,1
+Salmonella enterica;Salmonella enterica;Norovirus Genogroup I,0,132,1
+Salmonella enterica;Salmonella enterica;Norovirus unknown,0,76,1
+Salmonella enterica;Salmonella enterica;Salmonella enterica,4,1399,20
+Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,0,280,6
+Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,1,461,4
+Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,0,673,3
+Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,0,365,1
+Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica;Salmonella enterica,0,119,1
+Salmonella enterica;Sapovirus unknown,0,36,1
+Salmonella enterica;Vibrio parahaemolyticus;Plesiomonas shigelloides,0,28,1
+Salmonella other,0,346,37
+"Salmonella other;Escherichia coli, Shiga toxin-producing",0,9,1
+Salmonella other;Norovirus Genogroup I;Norovirus Genogroup II,0,16,1
+Salmonella other;Norovirus Genogroup II;Clostridium difficile,0,18,1
+Salmonella other;Salmonella other,0,17,2
+Salmonella unknown,0,816,117
+Salmonella unknown;Campylobacter unknown,0,3,1
+"Salmonella unknown;Escherichia coli, Enterotoxigenic",0,5,1
+Salmonella unknown;Norovirus unknown,0,39,3
+Salmonella unknown;Salmonella enterica,0,101,4
+Salmonella unknown;Salmonella unknown,0,3,1
+"Salmonella;Escherichia coli, Other",0,21,1
+Salmonella;Norovirus unknown,0,17,1
+Salmonella;Salmonella enterica,0,10,2
+Sapovirus,2,2414,83
+Sapovirus Genogroup I,1,126,9
+"Sapovirus Genogroup I;Escherichia coli, Enteropathogenic",0,9,1
+Sapovirus Genogroup II,0,37,1
+Sapovirus Genogroup IV,0,132,5
+Sapovirus unknown,0,1330,52
+Sapovirus unknown;Adenovirus unknown,0,4,1
+Sapovirus unknown;Clostridium difficile,0,30,1
+"Sapovirus unknown;Escherichia coli, Enteropathogenic",0,13,1
+"Sapovirus unknown;Escherichia coli, Shiga toxin-producing",0,13,1
+Sapovirus unknown;Norovirus Genogroup II,0,115,3
+Sapovirus unknown;Norovirus unknown,0,3545,33
+Sapovirus unknown;Rotavirus,0,28,1
+Sapovirus unknown;Sapovirus,0,11,1
+Sapovirus unknown;Sapovirus Genogroup I,0,11,1
+"Sapovirus;Escherichia coli, Enteropathogenic;Norovirus Genogroup II;Norovirus Genogroup II;Adenovirus F;Clostridium difficile",0,14,1
+"Sapovirus;Escherichia coli, Shiga toxin-producing",0,4,1
+Sapovirus;Norovirus Genogroup I,0,22,2
+Sapovirus;Norovirus Genogroup I;Norovirus Genogroup I;Norovirus Genogroup I;Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II;Norovirus Genogroup II,0,55,1
+Sapovirus;Norovirus Genogroup II,0,52,4
+Sapovirus;Norovirus Genogroup II;Norovirus Genogroup II,0,10,1
+Sapovirus;Rotavirus,0,29,1
+Scombroid toxin,0,1823,495
+Scombroid toxin;Other - Bacterium,0,3,1
+Shigella,0,1453,65
+Shigella boydii,0,316,15
+Shigella boydii;Shigella sonnei,0,5,1
+Shigella dysenteriae,0,6,1
+Shigella flexneri,1,1902,79
+Shigella flexneri;Shigella sonnei,0,75,2
+Shigella flexneri;Shigella sonnei;Shigella unknown,0,12,1
+"Shigella flexneri;Vibrio parahaemolyticus;Vibrio cholerae;Campylobacter lari;Norovirus Genogroup I;Escherichia coli, Shiga toxin-producing",0,16,1
+Shigella other,0,2,1
+Shigella sonnei,4,23746,1106
+"Shigella sonnei;Escherichia coli, Enteroaggregative;Escherichia coli, Enteroinvasive",0,2,1
+"Shigella sonnei;Escherichia coli, Enteroaggregative;Escherichia coli, Enterotoxigenic",0,12,1
+"Shigella sonnei;Escherichia coli, Shiga toxin-producing",0,17,1
+Shigella sonnei;Norovirus Genogroup I,0,81,1
+Shigella sonnei;Norovirus Genogroup II,0,89,4
+Shigella sonnei;Norovirus unknown,0,10,1
+Shigella sonnei;Plesiomonas shigelloides,0,29,1
+Shigella sonnei;Salmonella enterica,0,53,1
+Shigella sonnei;Sapovirus;Norovirus Genogroup I,0,159,1
+Shigella sonnei;Shigella flexneri,0,29,1
+Shigella sonnei;Shigella sonnei,0,10,3
+Shigella sonnei;Shigella unknown,0,147,9
+Shigella unknown,0,811,91
+Shigella unknown;Norovirus Genogroup I,0,100,1
+Shigella unknown;Norovirus Genogroup II,0,4,1
+Shigella unknown;Norovirus unknown,0,5,1
+Shigella unknown;Shigella unknown,0,12,1
+"Shigella;Escherichia coli, Enteropathogenic",0,15,1
+"Shigella;Escherichia coli, Enteropathogenic;Clostridium difficile",0,33,1
+"Shigella;Escherichia coli, Shiga toxin-producing;Salmonella enterica;Norovirus",0,20,1
+"Shigella;Escherichia coli, Shiga toxin-producing;Salmonella enterica;Norovirus Genogroup II",0,7,1
+Shigella;Norovirus,0,16,3
+"Shigella;Other;Escherichia coli, Shiga toxin-producing;Salmonella enterica;Salmonella enterica;Escherichia coli, Shiga toxin-producing",0,10,1
+"Shigella;Other;Salmonella enterica;Escherichia coli, Shiga toxin-producing;Norovirus",0,10,1
+Shigella;Rotavirus;Norovirus,0,50,1
+Shigella;Rotavirus;Norovirus unknown,0,5,1
+Shigella;Sapovirus,0,2,1
+Shigella;Shigella sonnei,0,17,3
+Sodium Hydroxide,0,156,5
+Staphylococcus,0,24,7
+Staphylococcus aureus,4,9688,626
+Staphylococcus aureus;Bacillus cereus,0,27,1
+Staphylococcus aureus;Bacillus cereus;Enterobacter other,0,18,1
+"Staphylococcus aureus;Escherichia coli, Enteroaggregative;Norovirus Genogroup I",0,4,1
+Staphylococcus aureus;Legionella pneumophila,2,8,1
+Staphylococcus aureus;Norovirus Genogroup I,0,126,1
+Staphylococcus aureus;Norovirus Genogroup II,0,30,2
+Staphylococcus aureus;Norovirus unknown,0,95,3
+Staphylococcus aureus;Other - Bacterium,0,9,2
+Staphylococcus aureus;Staphylococcus unknown,0,16,1
+"Staphylococcus aureus;Streptococcus Group B, C or G",0,4,1
+Staphylococcus other,0,2,1
+Staphylococcus unknown,0,155,19
+Staphylococcus unknown;Norovirus unknown,0,66,1
+Streptococcus Group A,0,178,5
+Streptococcus Group A;Norovirus Genogroup I,0,16,1
+"Streptococcus Group B, C or G",0,2,1
+Toxoplasma,0,9,2
+Toxoplasma gondii,0,16,2
+Trichinella,0,26,5
+Trichinella spiralis,0,107,17
+Trichinella unknown,0,21,4
+Trichinella;Trichinella unknown,0,5,2
+Unknown,0,4412,88
+Unknown - Bacterium,0,243,16
+Unknown - Chemical/Toxin,0,235,16
+Unknown - Virus,0,36,5
+Unknown;Cryptosporidium hominis,0,12,1
+Unknown;Giardia duodenalis,0,2,1
+Unknown;Legionella anisa,0,51,1
+Unknown;Legionella pneumophila,1,17,2
+Unknown;Leptospira interrogans;Leptospira unknown,0,375,1
+Unknown;Norovirus unknown,0,70,1
+Unknown;Norovirus unknown;Staphylococcus aureus,0,15,1
+Unknown;Pseudomonas aeruginosa,0,31,1
+Unknown;Unknown,0,9,1
+Unknown;Unknown;Legionella unknown,0,68,1
+Unknown;Unknown;Pseudomonas aeruginosa,0,19,1
+Unknown;Unknown;Pseudomonas aeruginosa;Pseudomonas aeruginosa,0,12,1
+Unknown;Unknown;Unknown;Legionella unknown,0,45,1
+Vibrio,0,57,7
+Vibrio cholerae,8,150,14
+Vibrio cholerae;Clostridium difficile,0,16,1
+"Vibrio cholerae;Escherichia coli, Enteropathogenic;Escherichia coli, Enterotoxigenic",0,2,1
+Vibrio other,0,44,10
+Vibrio other;Norovirus Genogroup II,0,2,1
+Vibrio parahaemolyticus,1,2006,217
+Vibrio parahaemolyticus;Norovirus Genogroup I,0,21,1
+Vibrio parahaemolyticus;Other - Bacterium,0,2,1
+"Vibrio parahaemolyticus;Other - Bacterium;Norovirus Genogroup I;Escherichia coli, Enteropathogenic",0,178,1
+Vibrio parahaemolyticus;Vibrio cholerae;Other - Bacterium,0,115,1
+Vibrio parahaemolyticus;Vibrio other,0,19,4
+Vibrio parahaemolyticus;Vibrio other;Vibrio cholerae,0,6,1
+Vibrio parahaemolyticus;Vibrio parahaemolyticus,0,8,1
+Vibrio parahaemolyticus;Vibrio unknown,0,2,1
+Vibrio unknown,0,36,12
+Vibrio unknown;Vibrio parahaemolyticus,0,3,1
+Vibrio vulnificus,1,4,2
+Vibrio;Norovirus unknown,0,5,1
+Yersinia,0,9,3
+Yersinia enterocolitica,1,267,21
+Yersinia enterocolitica;Norovirus Genogroup I,0,12,1
+Yersinia enterocolitica;Norovirus Genogroup II;Shigella sonnei,0,54,1
+Yersinia enterocolitica;Norovirus unknown;Clostridium difficile;Norovirus Genogroup II,0,11,1
+Yersinia enterocolitica;Salmonella enterica,0,27,2
+Yersinia unknown;Cryptosporidium unknown;Norovirus unknown,1,13,1
+Yersinia unknown;Norovirus unknown,0,7,2
