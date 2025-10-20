@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Oct 20, 2025, 02_13_16 PM" src="https://github.com/user-attachments/assets/8a24f9e3-99be-43ab-a23b-47cb00e12192" />
+<img width="1000" height="1000" alt="problem statment in image" src="https://github.com/user-attachments/assets/21501e9c-c2f0-4ea5-bc7a-1eee31bc7b01" />
 
 # Python project: CDC's National Outbreak Reporting System
 Between 1971 and 2023, the United States recorded approximately 66,000 outbreaks, with 49% attributed  to person-to-person spread and 38% to foodborne transmission. To gain deeper insights into these outbreaks, it is essential to analyze trends over time, examine the primary modes of transmission, and assess how outbreaks vary across different states.
