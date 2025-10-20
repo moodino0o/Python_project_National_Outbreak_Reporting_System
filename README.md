@@ -23,9 +23,48 @@ Each record represents one outbreak and includes information such as the year, m
 
 
 # Analysis
+The dataset was cleaned and analyzed using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
+The analysis focused on identifying trends in foodborne and waterborne disease outbreaks across the United States.
+Data were grouped and visualized by year, state, and etiology (cause) to find the most common diseases and understand their severity based on illnesses, hospitalizations, and deaths.
 
+Key insights revealed that Norovirus and Salmonella are the most frequent causes of outbreaks, while Listeria and E. coli were less common but caused more severe outcomes.
+Additionally, seasonal patterns were observed, with outbreaks peaking during summer months (June–August), and certain states (like California and Texas) showing higher outbreak frequencies.
 
+## Key Findings:
+- Norovirus is the leading cause of foodborne outbreaks.
+- Listeria and E. coli have the highest hospitalization and death rates.
+- Most outbreaks occur during the summer season.
+- Larger states tend to report more outbreaks than smaller ones.
+ 
 # How To Run
 
 
 # Dependencies
+The project was developed using the following Python libraries:
+
+## Core Libraries:
+- pandas – for data cleaning, manipulation, and analysis
+- numpy – for numerical operations and calculations
+- matplotlib – for creating plots and charts
+- seaborn – for advanced visualizations
+
+## Supporting Libraries:
+- datetime – for handling date and time values
+- us – helps works with U.S. states and territories
+- warnings – to suppress unnecessary warning messages
+
+## Optional Libraries (if used):
+- plotly – for interactive charts and dashboards
+- geopandas – for mapping and spatial data analysis
+
+## Installation Commands:
+### To install all dependencies: 
+- Run
+
+      pip install {library}
+- Or, if you have a requirements.txt file, use:
+
+      pip install -r requirements.txt
+
+
+
